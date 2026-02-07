@@ -3,7 +3,7 @@
 This repository consolidates multiple machine learning experiments focused on model behavior analysis, kernel-based learning, curve fitting, and system-level performance profiling.
 The goal is to systematically study how different modeling choices and computational factors impact accuracy, generalization, and resource efficiency.
 
-🎯 Objectives
+#🎯 Objectives
 
 Compare different kernel functions and understand their effect on model decision boundaries
 
